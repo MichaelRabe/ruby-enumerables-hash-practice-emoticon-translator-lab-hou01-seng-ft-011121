@@ -1,7 +1,7 @@
 require 'yaml'
 emotions = YAML.load_file('emoticons.yml')
 
-def load_library(emotions)
+def load_library(file_path)
   
 end
 
